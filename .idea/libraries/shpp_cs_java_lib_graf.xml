@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shpp-cs-java-lib-graf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shpp-cs-java-lib-graf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
